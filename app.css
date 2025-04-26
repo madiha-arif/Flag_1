@@ -1,0 +1,30 @@
+.p{
+    border: 2px solid black;
+    display: inline-block;
+}
+.r{
+    height: 340px;
+    width: 600px;
+    background-color: #e02528;
+}
+.w{
+    height: 50px;
+    width: 600px;
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 510px;
+}
+.b{
+    height: 120px;
+    width: 600px;
+    background-color: #0065b3;
+    position: absolute;
+    bottom: 390px;
+}
+.h{
+    height: 50px;
+    width: 600px;
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 360px;
+}
